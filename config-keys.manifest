@@ -1,0 +1,5 @@
+# Exported configuration keys, one per line.
+# CI fails when this list disagrees with the exports in src/config.js.
+API_BASE_URL
+REQUEST_TIMEOUT_MS
+MAX_PAGE_SIZE
