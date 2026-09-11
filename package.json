@@ -1,0 +1,8 @@
+{
+  "name": "rbe-ci-green",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Journey fixture: main is green; a PR whose own change breaks CI is the scenario under test.",
+  "scripts": { "test": "node --test" }
+}
